@@ -1,0 +1,29 @@
+{
+    "images": [
+        {
+            "imgPath": "img/places/winter.png",
+            "imgLocation": "North Pole",
+            "description": "Pet Rock in Winter",
+            "date": "01/29/2024"
+        },
+        {
+            "imgPath": "img/places/spring.png",
+            "imgLocation": "New Jersey",
+            "description": "Pet Rock in Spring",
+            "date": "01/29/2024"
+        },
+        {
+            "imgPath": "img/places/summer.png",
+            "imgLocation": "The Bahamas",
+            "description": "Pet Rock in Summer",
+            "date": "01/29/2024"
+        },
+        {
+            "imgPath": "img/places/fall.png",
+            "imgLocation": "Haunted House",
+            "description": "Pet Rock in Fall",
+            "date": "10/31/2023"
+        }
+
+  ]
+}
